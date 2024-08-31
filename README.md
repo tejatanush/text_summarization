@@ -1,4 +1,4 @@
-# text_summarization
+# Text Summarization
 Developed a model for Text summarization using transformers pipeline. This model takes input of an article and summarizes the article in to less length which is readable with understandable words.
 ### Features  
 Import  libraries                                                                                     
